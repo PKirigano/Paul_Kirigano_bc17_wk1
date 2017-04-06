@@ -1,4 +1,4 @@
-def find_missing(r1, r2):
+def find_missing_number(r1, r2):
     if len(r1)==0 or len(r2)==0:
         return 0
     if len(r1)==len(r2):
